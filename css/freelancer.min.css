@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body{
-    font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-family:Helvetica;
     overflow-x:hidden
 }
 
@@ -21,7 +21,7 @@ a,a.active,a:active,a:focus,a:hover{
 }
 
 h1,h2,h3,h4,h5,h6{
-    font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:Helvetica;
     text-transform:none;
     font-weight:700
 }
@@ -89,7 +89,7 @@ header img{
 
 header .intro-text .name{
     display:block;
-    font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:Helvetica;
     text-transform:none;
     font-weight:700;
     font-size:2em
@@ -115,7 +115,7 @@ header .intro-text .skills{
 
 .navbar-custom{
     background:#345995;
-    font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:Helvetica;
     text-transform:none;
     font-weight:700;
     border:none
@@ -334,7 +334,7 @@ footer h3{
 
 footer .footer-above{
     padding-top:50px;
-    background-color:#CA1551
+    background-color:#345995
     }
 
 footer .footer-col{
